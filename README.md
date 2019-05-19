@@ -1,1 +1,2 @@
 # tracker
+目前tracking方向有主要的两个方向，一个是以CF为基础，另一个是以siamese网络为基础
